@@ -1,0 +1,36 @@
+Number of cities: 5
+City names: ['Bucuresti', 'Cluj', 'Constanta', 'Timisoara', 'Iasi']
+Distances:
+[0, 10, 20, 30, 40]
+[10, 0, 25, 45, 15]
+[20, 25, 0, 35, 30]
+[30, 45, 35, 0, 20]
+[40, 15, 30, 20, 0]
+Starting city: 1
+Visited cities: ['Bucuresti', 'Cluj', 'Iasi', 'Timisoara', 'Constanta']
+Total distance: 100
+Execution time: 0.0
+Number of cities: 4
+City names: ['Brasov', 'Ploiesti', 'Sinaia', 'Busteni']
+Distances:
+[0, 30, 45, 60]
+[30, 0, 20, 35]
+[45, 20, 0, 10]
+[60, 35, 10, 0]
+Starting city: 2
+Visited cities: ['Ploiesti', 'Sinaia', 'Busteni', 'Brasov']
+Total distance: 120
+Execution time: 0.0
+Number of cities: 6
+City names: ['Oradea', 'Arad', 'Timisoara', 'Lugoj', 'Sibiu', 'Bucuresti']
+Distances:
+[0, 75, 118, 111, 140, 148]
+[75, 0, 71, 80, 151, 140]
+[118, 71, 0, 111, 109, 90]
+[111, 80, 111, 0, 140, 146]
+[140, 151, 109, 140, 0, 99]
+[148, 140, 90, 146, 99, 0]
+Starting city: 1
+Visited cities: ['Oradea', 'Arad', 'Timisoara', 'Bucuresti', 'Sibiu', 'Lugoj']
+Total distance: 586
+Execution time: 0.0

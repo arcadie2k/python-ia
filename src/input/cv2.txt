@@ -1,0 +1,10 @@
+4
+Brasov
+Ploiesti
+Sinaia
+Busteni
+0 30 45 60
+30 0 20 35
+45 20 0 10
+60 35 10 0
+2
